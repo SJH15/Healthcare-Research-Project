@@ -51,6 +51,7 @@ Welcome to my SQL portfolio! This repository showcases my ability to write effic
 - DBeaver / pgAdmin
 - Git & GitHub
 - Excel (for output validation)
+- Python (for putting the data into SQL)
 
 ---
 
