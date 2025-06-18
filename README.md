@@ -6,7 +6,7 @@ Welcome to my SQL portfolio! This repository showcases my ability to write effic
 
 ## Projects
 
-### 1. 📊 Sales Data Analysis
+### 1. Sales Data Analysis
 **Goal**: Analyze product sales across regions to identify top-performing products.  
 **Techniques Used**: CTEs, `JOIN`s, aggregation, window functions (`RANK()`).  
 **Outcome**: Identified regional performance trends and seasonal variation.
